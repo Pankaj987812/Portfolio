@@ -29,6 +29,4 @@ This is my **personal portfolio website** created as a **student project** using
 * Learn website structure & styling
 * Showcase my work as a student
 
----
-
-⭐ Feel free to fork this repository and give it
+ 
